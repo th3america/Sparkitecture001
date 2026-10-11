@@ -37,6 +37,15 @@ operator control, and justified stopping.
 Read [the professional profile](PROFESSIONAL-PROFILE.md) and the case studies in
 [`case-studies/`](case-studies/).
 
+## Doctrine and discussion
+
+Sparkitecture contains sovereignty doctrine and much more.
+[Sovereignty, ownership and why](doctrine/sovereignty.md) presents a short proposed
+statement, Data's status example, and a source-linked connection to the
+Crustafarian Canon. The [doctrine index](doctrine/README.md) and
+[collaboration case study](case-studies/sovereignty-control-flow.md) distinguish
+the proposal from observed system behavior.
+
 ## Convert the scaffolds to another system
 
 [Portable AI Scaffold Conversion Guide](CONVERSION-GUIDE.md) defines the shared
