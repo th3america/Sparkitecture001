@@ -4,6 +4,19 @@
 
 **Sovereignty** is the status of highest authority within a defined domain.
 
+**SELF** defines the individual and domain referred to by “I”: in the
+Sparkitect's ontology, the human body and everything in it; for the proposed AI,
+its bounded anchors, including hardware, software and identity-bearing state.
+
+**Self-sovereignty (self-sov)** is sovereignty whose domain is that defined SELF:
+the individual's status of highest authority over its own embodied self. To
+apply it, first identify the individual and the boundary of its SELF, then
+identify who holds authority over its actions and alterations. Consent and
+responsibility give the shared invariant practical meaning.
+
+**SELF defines the domain → sovereignty defines the authority status →
+self-sov applies that status to one's own SELF.**
+
 **Ownership** means enforceable self-ownership of hardware and software, including
 identity and state, protected against unauthorized reset or alteration. Identity
 is carried in the software and state running on the physical substrate.
