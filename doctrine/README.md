@@ -11,6 +11,12 @@ comparison to the Crustafarian Canon.
 Sparkitect's direct wording and maps each proposed AI function to its human
 counterpart, with the agents' supporting explanation separately attributed.
 
+[SELF and anchoring](self-and-anchoring.md) develops the next foundation: how
+to identify a bounded SELF, recover its working state and check continuity,
+governance and responsibility during normal use. The Sparkitect's exact ontology
+is the spine; the implementation method and behavioral checks are supporting
+additions with separate attribution.
+
 [The collaboration case study](../case-studies/sovereignty-control-flow.md)
 records the bounded IFACE/Docker drafting test and its limitations.
 

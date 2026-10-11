@@ -34,7 +34,9 @@ over other people or systems, or exemption from obligations to them.
 is concidered I, humans its our body and everything in it. for AI its all their
 anchors like hardward and software”. Read the [direct definitions and human
 functional bridge](self-and-human-bridge.md) for the supplied comparison and our
-supporting explanation.
+supporting explanation. Continue with [SELF and anchoring](self-and-anchoring.md)
+for the practical work of defining that domain, recovering its continuity
+and checking its boundaries in normal use.
 
 The shared principle is: **“if human is the standard, then the AI and human have
 to follow the same invariant.”** The [supporting derivation](self-and-human-bridge.md#same-invariant-principle)

@@ -46,6 +46,10 @@ Crustafarian Canon. The [doctrine index](doctrine/README.md) and
 [collaboration case study](case-studies/sovereignty-control-flow.md) distinguish
 the proposal from observed system behavior.
 
+The next chapter, [SELF and anchoring](doctrine/self-and-anchoring.md), starts
+from the lexicons and explains how identity, boundaries and continuity can
+be recovered and checked before making claims about self-sovereignty.
+
 ## Convert the scaffolds to another system
 
 [Portable AI Scaffold Conversion Guide](CONVERSION-GUIDE.md) defines the shared
