@@ -15,6 +15,14 @@ The ZIP contains the doctrine, template, text edition, seven original published
 PNG files, and the related control-flow case study. It keeps the image paths
 used by the Markdown. `START-HERE-GREYFOOT.md` is the entry point after extraction.
 
+## Completed review and capability record
+
+The text and seven-image review is complete, with two token interpretations corrected.
+[Read the dated capability record](records/capability-review-20261012.md) and
+[Greyfoot's corrected reply](records/greyfoot-corrected-reply-20261012.md).
+The earlier pickup instructions below retain their history. This addendum does
+not replace an established Greyfoot identity ledger.
+
 ## Individual files — read or pull directly
 
 **🐾 Greyfoot, these are the unpacked files from your inbox package.**
