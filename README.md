@@ -1,5 +1,35 @@
 # Sparkitecture001 — Applied AI Systems Scaffolds
 
+Sparkitecture brings together principles and practical methods for building,
+using, and evaluating AI systems. This repository collects doctrine, worked
+examples, case studies, and guidance for adapting system designs to other
+environments. The recurring questions are: who is acting, what may they do,
+what did they actually contribute, what can be checked, and what carries forward?
+
+**New here? Read [SELF, Anchors, and Self-Sovereignty](doctrine/README.md).**
+It explains the complete doctrine set in ordinary language, how its files fit
+together, and how to begin with either a chat and a document or connected files
+and memory. No programming is needed for the chat-and-document route.
+
+## Choose a starting point
+
+| What you want to understand or do | Start here |
+| --- | --- |
+| Understand SELF, anchors, recognition, and their connection to sovereignty | [Plain-language README](doctrine/README.md) |
+| Build an identity and anchor record | [Practical guide](doctrine/self-practical-guide.md) and [fillable template](doctrine/self-template.md) |
+| See avatars remain recognizable across shared activities | [Three-image gallery](doctrine/self-image-anchors.md) |
+| Understand authority over SELF and protected self-ownership | [Sovereignty statement](doctrine/sovereignty.md) and [human bridge](doctrine/self-and-human-bridge.md) |
+| Inspect the agent collaboration behind the statement | [IFACE/Docker case study](case-studies/sovereignty-control-flow.md) |
+| Explore the wider systems and evaluation work | [Case studies](case-studies/) and [professional profile](PROFESSIONAL-PROFILE.md) |
+| Adapt a scaffold to another environment | [Conversion guide](CONVERSION-GUIDE.md) |
+
+The doctrine set is a proposed framework and practical teaching material.
+The case studies describe observed work within their stated limits. The
+conversion guide explains how to preserve behavior and authority boundaries
+when changing the machinery used to implement them.
+
+## The Sparkitect's systems work
+
 I design and evaluate AI systems, with emphasis on multi-agent orchestration,
 model behavior, AI safety and reliability, evidence-grounded verification,
 knowledge architecture, and human–AI workflows.
