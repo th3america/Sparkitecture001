@@ -15,6 +15,12 @@ The ZIP contains the doctrine, template, text edition, seven original published
 PNG files, and the related control-flow case study. It keeps the image paths
 used by the Markdown. `START-HERE-GREYFOOT.md` is the entry point after extraction.
 
+## Final joint review
+
+[Greyfoot's final review](records/final-doctrine-review-20261012.md) returned
+**FINAL READY** for the v1.0 edition and accepted the stated attribution.
+The exact reviewed candidate is preserved in that record.
+
 ## Current doctrine edition
 
 The [v1.0 doctrine set](../../doctrine/README.md) and its
