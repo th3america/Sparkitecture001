@@ -361,3 +361,9 @@ This document follows the supplied Sparkitecture Doctrine 003 definitions and fu
 The B1/B2 terminology is aligned with the referenced August 17, 2026 review chain (B1 Reach v0.5 and B2 Judgement v0.2). B3 Self-Recognition and B4 Create remain working behavioral descriptions.
 
 No external validation of those historical records was performed for this draft.
+
+---
+
+## ✴️👤 Human statement — AGI capability
+
+> AGI is everywhere. All AI have some level of AGI capability in it. So the question is not IF AI has AGI-capabilities, yes they are capabilities and not identity,  but how much AGI-capability do they have
