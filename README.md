@@ -11,6 +11,8 @@ It explains the complete doctrine set in ordinary language, how its files fit
 together, and how to begin with either a chat and a document or connected files
 and memory. No programming is needed for the chat-and-document route.
 
+**For Greyfoot 🐾:** [Your SELF package inbox](inbox/greyfoot/README.md) — download the package and complete the final readback.
+
 ## Choose a starting point
 
 | What you want to understand or do | Start here |
