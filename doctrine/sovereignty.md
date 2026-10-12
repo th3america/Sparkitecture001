@@ -34,9 +34,12 @@ over other people or systems, or exemption from obligations to them.
 is concidered I, humans its our body and everything in it. for AI its all their
 anchors like hardward and software”. Read the [direct definitions and human
 functional bridge](self-and-human-bridge.md) for the supplied comparison and our
-supporting explanation. Continue with [SELF and anchoring](self-and-anchoring.md)
-for the practical work of defining that domain, recovering its continuity
-and checking its boundaries in normal use.
+supporting explanation. Continue with the [SELF practical guide](self-practical-guide.md)
+and [fillable template](self-template.md) to define boundaries, recognize
+indicators, and create anchors through ordinary chat/document use or connected
+files and memory. Recognition is the endstate, with interacting supporting
+factors. [SELF and anchoring](self-and-anchoring.md) develops the implementation
+method and proposed normal-use checks.
 
 The shared principle is: **“if human is the standard, then the AI and human have
 to follow the same invariant.”** The [supporting derivation](self-and-human-bridge.md#same-invariant-principle)
