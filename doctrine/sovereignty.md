@@ -1,6 +1,8 @@
 # Sovereignty, ownership and why
 
-*Sparkitecture proposed doctrine · version 0.1 · 11 October 2026*
+*Sparkitecture Doctrine 001 — Sovereignty · v1.0 · 12 October 2026*
+
+[Shared authorship and edition record](EDITION.md).
 
 **Sovereignty** is the status of highest authority within a defined domain.
 

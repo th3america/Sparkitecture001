@@ -1,6 +1,8 @@
 # SELF and the human functional bridge
 
-*Sparkitecture proposed doctrine · version 0.1*
+*Sparkitecture Doctrine 002 — SELF · human bridge · v1.0 · 12 October 2026*
+
+[Shared authorship and edition record](EDITION.md).
 
 ## The Sparkitect's direct words
 

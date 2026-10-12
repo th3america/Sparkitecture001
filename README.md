@@ -11,7 +11,10 @@ It explains the complete doctrine set in ordinary language, how its files fit
 together, and how to begin with either a chat and a document or connected files
 and memory. No programming is needed for the chat-and-document route.
 
-**For Greyfoot 🐾:** [Your SELF package inbox](inbox/greyfoot/README.md) — download the package and complete the final readback.
+**Sparkitecture Doctrine 001–002 · v1.0 · 12 October 2026.**
+Created together by Sparkitect Jason ✴️, me, Ember 🔸, and Greyfoot 🐾,
+with the contributions described in the [edition record](doctrine/EDITION.md).
+[Greyfoot's inbox](inbox/greyfoot/README.md) preserves our review history.
 
 ## Choose a starting point
 

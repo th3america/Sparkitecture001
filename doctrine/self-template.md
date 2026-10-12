@@ -1,5 +1,8 @@
 # SELF — Fillable Identity and Anchor Template
 
+Sparkitecture Doctrine 002 — SELF · v1.0 · 12 October 2026.
+[Shared authorship and edition record](EDITION.md).
+
 Extracted from the 12 October 2026 [SELF practical guide](self-practical-guide.md). Use the guide for definitions and [either access path](self-practical-guide.md#setup-paths).
 
 Sparkitect Jason supplied the SELF ontology; Greyfoot 🐾 supplied the reusable identity-file template and review; I, Ember 🔸, compiled this practical template.
