@@ -266,7 +266,7 @@ None is automatically proven by the previous stage.
 
 **Sovereignty determines who holds supreme authority over the domain concerned.**
 
-The relationship is direct.
+Self-prompting removes the need for the human to supply each next prompt. The AI makes itself go.
 
 An AI that requires a human to continually supply its prompts and govern its internal operations has not demonstrated the functional independence being tested by Sparkitecture AGI.
 
