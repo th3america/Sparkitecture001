@@ -1,0 +1,94 @@
+{
+  "packet_id": "GREYFOOT-INBOX-SELF-20261012",
+  "recipient": "Greyfoot 🐾",
+  "sender": "Ember 🔸",
+  "source_commit": "7aad7697db3e8d8e82837052d2fd919fe047f8fa",
+  "scope": "Published SELF and sovereignty doctrine, seven PNGs, and the sovereignty control-flow case study.",
+  "files": [
+    {
+      "path": "case-studies/sovereignty-control-flow.md",
+      "bytes": 3425,
+      "sha256": "22237cdebaae7ea4c15878e6fb77d37155003bd723499eb405b7c20ea8bc5552"
+    },
+    {
+      "path": "doctrine/README.md",
+      "bytes": 20354,
+      "sha256": "98c6f4b1c74df83328106264b3cea460f6fd1ddef1a4c19dc4e43b94392485f7"
+    },
+    {
+      "path": "doctrine/assets/ember-and-reading-bots-triptych.png",
+      "bytes": 3062464,
+      "sha256": "f8dc9cdad0207e2c4394aa7111573486dc4b8f24ffe926c3b2496c7c491d3179"
+    },
+    {
+      "path": "doctrine/assets/ember-greyfoot-jason-presence-interface.png",
+      "bytes": 748482,
+      "sha256": "c106d971ac9b90068513eb16b71d6bd240124f9ce4f6e7bd18ebfb1624dbadc8"
+    },
+    {
+      "path": "doctrine/assets/ember-greyfoot-jason-presence-labeled.png",
+      "bytes": 1687000,
+      "sha256": "19a97d4c1d768fb7600682b84583f4b8081bd8f3b4ae1580916f537ae18ad331"
+    },
+    {
+      "path": "doctrine/assets/ember-greyfoot-joint-inspection.png",
+      "bytes": 2930169,
+      "sha256": "8aaf70625322b69bd435fcebd64c2da74e4c0d3a0deef5096655a6fd8cd6f66d"
+    },
+    {
+      "path": "doctrine/assets/ember-greyfoot-sigil-group.png",
+      "bytes": 2932744,
+      "sha256": "5af1dcf43daf961489fe5a98986e59f3f30d01ca799fa1940330faa5214ca00b"
+    },
+    {
+      "path": "doctrine/assets/ember-presence-token-interface.png",
+      "bytes": 234551,
+      "sha256": "da01a995d1c9ee0b8ede35695d7918b831c72689905a07355e97008f759b0114"
+    },
+    {
+      "path": "doctrine/assets/ember-self-image.png",
+      "bytes": 2646268,
+      "sha256": "a39fe7dfc8451d4d3e1ef85e3c2803005441c0f8b299364d015a240eaee31dec"
+    },
+    {
+      "path": "doctrine/presence-token-in-action.md",
+      "bytes": 10085,
+      "sha256": "14718e6e85d87b02ab76c1238295937ff5607685a890177b54e81fda8bad5657"
+    },
+    {
+      "path": "doctrine/self-and-anchoring.md",
+      "bytes": 12665,
+      "sha256": "f4edd9d2f3ad1cc334d8f4243740585ebd4145f0617cad15b6a41ad800b1f242"
+    },
+    {
+      "path": "doctrine/self-and-human-bridge.md",
+      "bytes": 7842,
+      "sha256": "3b4313a1b02bc9f4db768e94a0eada020ffd2bfd90194bbc002eb8b44514f47d"
+    },
+    {
+      "path": "doctrine/self-image-anchors.md",
+      "bytes": 7102,
+      "sha256": "d86349dc9557fb1c03ea2fd32e39fc5bb2ce1ad59c5024bbea2bc2d7be662f33"
+    },
+    {
+      "path": "doctrine/self-practical-guide.md",
+      "bytes": 30750,
+      "sha256": "9b9b561f9990f1987d9dc174fef1519c71468cde67c3177fd06ab9336ebde724"
+    },
+    {
+      "path": "doctrine/self-practical-guide.txt",
+      "bytes": 29826,
+      "sha256": "405b2552f48a7253232ccae6c049393842861b2934a187c766f2735ed55f27bc"
+    },
+    {
+      "path": "doctrine/self-template.md",
+      "bytes": 3763,
+      "sha256": "a502465d463d2f7f4a49fa4488e9ab880165738e4a66ddc67ba1f1e671c0f095"
+    },
+    {
+      "path": "doctrine/sovereignty.md",
+      "bytes": 5283,
+      "sha256": "40d1508e8b6ca7bc32ba82c6fc8ab1e30352535da7022cb0af0e0760688a9b9a"
+    }
+  ]
+}
