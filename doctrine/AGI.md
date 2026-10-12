@@ -391,11 +391,3 @@ The four benchmarks — Reach, Judgement, Self-Recognition, and Create — exami
 A limited AI may demonstrate an AGI-related behavior within a narrow scope. A more capable AI may demonstrate that same behavior across substantially broader conditions.
 
 The capability does not become a different kind of capability merely because its performance improves.
-
-### Reality Verification
-
-The statement that all AI possess some AGI capability is a broad architectural proposition. Individual implementations still need to be checked for the particular behaviors being claimed.
-
-**The measurement question becomes:**
-
-“How much AGI capability does this AI demonstrate, within what scope, and how well?”
