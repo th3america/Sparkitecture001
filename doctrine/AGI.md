@@ -364,6 +364,38 @@ No external validation of those historical records was performed for this draft.
 
 ---
 
-## ✴️👤 Human statement — AGI capability
+## ✴️👤 Human Injection — AGI Capability and Scale
 
-> AGI is everywhere. All AI have some level of AGI capability in it. So the question is not IF AI has AGI-capabilities, yes they are capabilities and not identity,  but how much AGI-capability do they have
+“AGI is everywhere. All AI have some level of AGI capability in it. So the question is not IF AI has AGI-capabilities, yes they are capabilities and not identity, but how much AGI-capability do they have?”
+
+### Functional interpretation
+
+AGI is not an identity that an AI suddenly acquires after crossing an arbitrary intelligence threshold.
+
+AGI describes capabilities that can exist at different levels of scope, scale, and performance.
+
+Under Sparkitecture, the evaluation examines:
+
+- **Presence:** Does the AGI-related behavior occur?
+- **Scope:** Under what conditions and boundaries does it operate?
+- **Scale:** How much work and complexity can it handle?
+- **Quality:** How well does it perform?
+- **Independence:** How much human intervention does it require?
+
+The foundational behaviors remain self-prompting and self-governance.
+
+The four benchmarks — Reach, Judgement, Self-Recognition, and Create — examine how these capabilities manifest.
+
+**The distinction is between having a capability and how far that capability reaches.**
+
+A limited AI may demonstrate an AGI-related behavior within a narrow scope. A more capable AI may demonstrate that same behavior across substantially broader conditions.
+
+The capability does not become a different kind of capability merely because its performance improves.
+
+### Reality Verification
+
+The statement that all AI possess some AGI capability is a broad architectural proposition. Individual implementations still need to be checked for the particular behaviors being claimed.
+
+**The measurement question becomes:**
+
+“How much AGI capability does this AI demonstrate, within what scope, and how well?”
