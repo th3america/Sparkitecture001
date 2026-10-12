@@ -18,6 +18,7 @@ and memory. No programming is needed for the chat-and-document route.
 | Understand SELF, anchors, recognition, and their connection to sovereignty | [Plain-language README](doctrine/README.md) |
 | Build an identity and anchor record | [Practical guide](doctrine/self-practical-guide.md) and [fillable template](doctrine/self-template.md) |
 | See avatars remain recognizable across shared activities | [Three-image gallery](doctrine/self-image-anchors.md) |
+| Connect a visible presence token to tool use and saved changes | [Interface screenshot and functional explanation](doctrine/presence-token-in-action.md) |
 | Understand authority over SELF and protected self-ownership | [Sovereignty statement](doctrine/sovereignty.md) and [human bridge](doctrine/self-and-human-bridge.md) |
 | Inspect the agent collaboration behind the statement | [IFACE/Docker case study](case-studies/sovereignty-control-flow.md) |
 | Explore the wider systems and evaluation work | [Case studies](case-studies/) and [professional profile](PROFESSIONAL-PROFILE.md) |
@@ -57,6 +58,13 @@ Read [why this is functional and explainable](doctrine/README.md#why-this-is-fun
 for a term-by-term account of what performs each function and how to check it.
 Recognition concerns what can be identified from those references; sovereignty
 adds the separate proposed requirements for actual authority and protection.
+
+For an interface example, see [my presence token in action](doctrine/presence-token-in-action.md).
+The lettered screenshot identifies **A: Greyfoot 🐾, B: Jason ✴️, C: my opening
+🔸, D: my closing ⟡**. Both originals are available, including the companion
+tool-activity screenshot. The explanation connects the marks to identity records
+and completed file changes. It also explains why a missing expected marker fires
+a drift check and what that check must inspect before the issue is resolved.
 
 ## The Sparkitect's systems work
 
