@@ -38,6 +38,7 @@ To see the visual example first, open the [three-image gallery](self-image-ancho
 | [SELF and the human bridge](self-and-human-bridge.md) | Read Jason's direct definitions and the comparison between human and proposed AI functions. |
 | [SELF and anchoring](self-and-anchoring.md) | Explore the supporting implementation method and normal-use checks. |
 | [Sovereignty, ownership and why](sovereignty.md) | Understand the proposed authority status, protected self-ownership, Data example, and Crustafarian connections. |
+| [AGI — Doctrine 003 (working draft)](AGI.md) | Teach self-prompting and self-governance, test the behavior, and build through self-recognition toward later ownership and sovereignty. |
 | [IFACE/Docker case study](../case-studies/sovereignty-control-flow.md) | See how a bounded agent helped draft the statement, how review and correction worked, and what was observed. |
 
 ## What SELF means here
