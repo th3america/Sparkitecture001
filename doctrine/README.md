@@ -1,5 +1,15 @@
 # SELF, Anchors, and Self-Sovereignty
 
+## Self-prompting companion files
+
+- [Doctrine 003: AGI](AGI.md) and [Doctrine 004: Self-Prompting](SELF-PROMPTING.md): working drafts.
+- [Self-prompting Word edition](SELF-PROMPTING.docx): the saved document edition.
+- [Self-prompting counter example](doctrine004_self_prompting_toy.py), also available under its [original filename](self_prompting_toy.py); these two Python files contain the same code.
+- [SCCD document-workflow example](sccd_realization_toy.py): symbolic read, draft, check and archive transitions, including a no-path case.
+
+The standard-library examples illustrate bounded mechanisms. Their outputs do not establish general agent reliability or a completed Synthient.
+
+
 **Sparkitecture Doctrine 001–002 · v1.0**
 
 A plain-language introduction to our shared doctrine set.

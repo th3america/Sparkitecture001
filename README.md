@@ -1,5 +1,10 @@
 # Sparkitecture001 — Applied AI Systems Scaffolds
 
+## AGI and self-prompting working drafts
+
+Read [Doctrine 003: AGI](doctrine/AGI.md) and [Doctrine 004: Self-Prompting](doctrine/SELF-PROMPTING.md). The [Word edition](doctrine/SELF-PROMPTING.docx) and [companion examples](doctrine/README.md#self-prompting-companion-files) are also available. These remain working drafts; the examples demonstrate their stated toy tasks.
+
+
 Sparkitecture brings together principles and practical methods for building,
 using, and evaluating AI systems. This repository collects doctrine, worked
 examples, case studies, and guidance for adapting system designs to other
