@@ -152,3 +152,7 @@ Validate this repository's machine-readable contract with:
 ```text
 python validate_portability.py .
 ```
+
+## AI Notepad
+
+[Download the AI Notepad desktop app](apps/ai-notepad/README.md) to open the `.ainote` edition. Windows Python app with launch scripts.

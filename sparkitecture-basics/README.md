@@ -33,3 +33,7 @@ The author's statement in the course describes the material as **personal, nonpr
 - AI features, interface steps, subscription prices, and usage limits mentioned in the lessons can change. They are the author's original statements and **have not been independently fact-checked** for this editorial release.
 - The `.ainote` file is preserved for readers using Sparkitecture AI Notepad. GitHub readers can use the Markdown version without that application.
 - [Editorial notes](EDITORIAL_NOTES.md) record the scope of changes and any open publishing questions.
+
+## AI Notepad
+
+[Download the AI Notepad desktop app](../apps/ai-notepad/README.md) to open the `.ainote` edition. Windows Python app with launch scripts.
