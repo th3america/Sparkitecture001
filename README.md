@@ -1,5 +1,9 @@
 # Sparkitecture001 — Applied AI Systems Scaffolds
 
+## Tools for AI use and support
+
+[Open the tools directory](tools/README.md) for standalone applications, AI-facing instructions and [machine-readable discovery](tools/catalog.json). The [Software Converter](tools/software-converter/README.md) provides a desktop UI, JSON CLI, local conversion methods, receipts and optional AI handoffs.
+
 ## Sparkitecture Basics — v9
 
 Start with the [five-lesson beginner course](sparkitecture-basics/COURSE.md), practice with the [workbook](sparkitecture-basics/WORKBOOK.md), or download the [AI Notepad and plain-text editions](sparkitecture-basics/README.md). Published 23 October 2026.

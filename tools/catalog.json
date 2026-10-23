@@ -1,0 +1,24 @@
+{
+  "schema": "sparkitecture.tools.v1",
+  "tools": [
+    {
+      "id": "software-converter",
+      "version": "0.1",
+      "path": "software-converter",
+      "readme": "software-converter/README.md",
+      "ai_guide": "software-converter/AI-TOOL-GUIDE.md",
+      "cli": "Sparkitecture-Converter-CLI.exe",
+      "discovery_command": [
+        "capabilities"
+      ],
+      "output_schema": "sparkitecture.converter.v1",
+      "ai_required": false
+    },
+    {
+      "id": "ai-notepad",
+      "readme": "../apps/ai-notepad/README.md",
+      "ai_guide": "../apps/ai-notepad/PORTING-WITH-AI.md",
+      "ai_required": false
+    }
+  ]
+}

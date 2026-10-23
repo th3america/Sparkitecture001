@@ -1,0 +1,360 @@
+🐾 🏗️ Sparkitecture Software Converter — Plan & Scaffold 001
+
+I'm designing this around one governing principle:
+
+Use ordinary PC computation for everything it can solve. Use AI only for unresolved problems. Then bring the solution back into the standalone converter.
+
+The first build should work without Codex, API keys, or an AI model.
+
+## 1. Core architecture
+
+APPLICATION INPUT
+
+Automatic file, OS, architecture, dependency detection
+
+STANDALONE CONVERSION ENGINE
+
+Inspect → Map → Select → Convert → Build → Test
+
+No AI required
+
+⛩️ Reality Verification
+
+Compare actual behavior against expected behavior
+
+PASS
+
+Package, receipt, deliver
+
+UNRESOLVED
+
+Prepare diagnostic handoff
+
+AI HANDOFF (WHEN NEEDED)
+
+Export evidence, relevant code, logs, tests, failed methods
+
+AI → Converter
+
+Patch or control existing engine
+
+AI Independent
+
+Solve with its own tools
+
+VERIFY → SAVE REUSABLE METHOD
+
+Future similar conversions may no longer require AI
+
+## 2. Project scaffold
+
+I'd start with a Python core, a PySide6 desktop interface, SQLite for local records, and adapters that invoke existing conversion, compilation, and testing tools. This keeps the initial project accessible to Codex and doesn't require a GPU.
+
+# Sparkitecture Software Converter
+
+**Architecture / Scaffold 001 — Planning baseline**
+
+## Repository structure
+
+```
+sparkitecture-software-converter/
+│
+├── README.md
+├── ARCHITECTURE.md
+├── REQUIREMENTS.md
+├── pyproject.toml
+│
+├── app/
+│   ├── main.py
+│   ├── ui/
+│   │   ├── main_window.py
+│   │   ├── import_panel.py
+│   │   ├── destinations.py
+│   │   ├── conversion_monitor.py
+│   │   └── results_panel.py
+│   │
+│   └── core/
+│       ├── detector.py
+│       ├── inspector.py
+│       ├── mapper.py
+│       ├── router.py
+│       ├── converter.py
+│       ├── builder.py
+│       └── verifier.py
+│
+├── adapters/
+│   ├── windows/
+│   ├── linux/
+│   ├── macos/
+│   ├── android/
+│   ├── compatibility/
+│   └── shared/
+│
+├── intelligence/
+│   ├── method_registry.py
+│   ├── pattern_matcher.py
+│   ├── strategy_ranker.py
+│   └── experience_store.py
+│
+├── handoff/
+│   ├── package_builder.py
+│   ├── ai_interface.py
+│   ├── solution_importer.py
+│   └── schemas/
+│
+├── workers/
+│   ├── local_runner.py
+│   ├── remote_runner.py
+│   └── sandbox.py
+│
+├── storage/
+│   ├── jobs/
+│   ├── recipes/
+│   ├── receipts/
+│   └── reports/
+│
+├── tests/
+│   ├── test_detection.py
+│   ├── test_conversion.py
+│   ├── test_verification.py
+│   └── sample_apps/
+│
+└── docs/
+    ├── USER_GUIDE.md
+    ├── CONVERSION_METHODS.md
+    └── AI_HANDOFF.md
+```
+
+## Module responsibilities
+
+**Detector:** Determines original OS, file format, architecture, and available source information.
+
+**Inspector:** Extracts structure, dependencies, resources, and available code.
+
+**Mapper:** Identifies what must be preserved or adapted.
+
+**Router:** Selects direct conversion, hybrid conversion, behavioral reconstruction, or compatibility methods based on evidence.
+
+**Converter:** Applies available transformations and reusable adapters.
+
+**Builder:** Invokes the required native build tools and produces target packages.
+
+**Verifier:** Runs available tests, compares required behavior, and issues receipts.
+
+**Local Intelligence:** Stores verified methods and improves method selection from past results.
+
+**Handoff:** Packages unresolved work for external AI and accepts returned solutions.
+
+**Workers:** Execute approved build and testing operations in isolated environments.
+
+## Conversion job lifecycle
+
+```
+IMPORTED
+   ↓
+DETECTED
+   ↓
+INSPECTED
+   ↓
+BASELINE RECORDED
+   ↓
+METHOD SELECTED
+   ↓
+CONVERSION ATTEMPTED
+   ↓
+BUILD
+   ↓
+VERIFICATION
+   ├── PASS → DELIVERY
+   ├── PARTIAL → REPORT + REPAIR
+   └── UNRESOLVED → AI HANDOFF PACKAGE
+```
+
+All jobs retain logs and independent status for each destination OS.
+
+## Required invariants
+
+1. Standalone functionality must never require AI.
+2. The source OS is automatically identified when possible.
+3. All four destination systems are selectable, including the original system.
+4. Failed conversions must produce useful diagnostic packages.
+5. AI escalation must not discard previous successful work.
+6. AI solutions must pass verification before reuse.
+7. The converter must distinguish built, tested, partially working, and verified outputs.
+8. AI access, execution permissions, and external uploads require authorization.
+9. The system must not repeatedly pay AI to rediscover a verified reusable solution.
+10. Working target applications do not depend on the converter to run unless the chosen compatibility method requires a runtime.
+
+## 3. Conversion methods
+
+The converter needs a library of methods, not one universal algorithm.
+
+| Method             | What the PC does                                                                      |
+| ------------------ | ------------------------------------------------------------------------------------- |
+| Direct             | Compile, translate, or repackage compatible code                                      |
+| Adapter            | Replace recognized platform-specific functions                                        |
+| Hybrid             | Retain compatible components, rebuild others                                          |
+| Compatibility      | Configure an appropriate runtime or emulator                                          |
+| Behavioral rebuild | Reconstruct functions from behavior; AI-assisted when local methods aren't sufficient |
+
+Every method uses behavioral testing, even if no behavior reconstruction is necessary.
+
+## 4. Local adaptive intelligence
+
+I'd keep this lightweight at the start rather than building a neural network immediately.
+
+Conversion experience database
+
+Each completed attempt records its detected conditions, chosen conversion method, observed result, and test coverage.
+
+Previously verified adapter
+
+Similar input and target environment
+
+Prefer
+
+Repeated unsuccessful method
+
+Same dependency failure pattern
+
+Lower rank
+
+Unknown incompatibility
+
+No applicable verified local method
+
+Handoff
+
+This is the first version of our specialized conversion intelligence.
+
+It doesn't need to generate arbitrary new code to improve. It can begin by learning which existing methods work under which conditions.
+
+Later, local pattern-recognition or small models can expand its capabilities. New generated adapters should pass regression tests before entering the trusted library.
+
+## 5. First interface
+
+Sparkitecture Software Converter
+
+Desktop GUI · Standalone mode
+
+v0.1 target
+
+Drop a program
+
+Automatic source detection
+
+Convert to
+
+🪟 Windows
+
+EXE / MSI
+
+🐧 Linux
+
+AppImage / DEB
+
+🍎 macOS
+
+APP / DMG
+
+🤖 Android
+
+Installed / APK / AAB
+
+Standalone first · AI handoff on unresolved work
+
+Activity
+
+Detected source → Selected method → Build status → Verification results
+
+This is the layout target. In the actual app, the OS cards will be selectable, the import area will accept real files, and the activity area will show actual jobs.
+
+## 6. Build phases
+
+01
+
+Foundation
+
+Window, real file import, automatic detection, local job database, logging and CLI
+
+Completion: The application opens, analyzes an input, and creates a real inspection receipt
+
+02
+
+First working conversions
+
+Add simple source-project adapters, package builders, and local execution
+
+Completion: A compatible sample project builds successfully into a real executable
+
+03
+
+Behavioral verification
+
+Create baseline tests, repeat them on the converted app, and report differences
+
+Completion: PASS, PARTIAL, or FAIL with evidence
+
+04
+
+Adaptive method library
+
+Store verified recipes, rank candidate methods, and avoid repeating known failures
+
+Completion: Previously solved conversions reuse methods without AI
+
+05
+
+AI handoff system
+
+Export diagnostic packages, import patches, support converter-assisted or independent AI solutions
+
+Completion: A failed local attempt can be continued without starting over
+
+06
+
+Cross-platform expansion
+
+Add target-specific workers, more adapters, mobile packaging and installation workflows
+
+Completion: Windows, Linux, macOS, and Android output paths with platform-specific verification
+
+Native packaging for all four destinations may require different build environments. We can use remote runners when local tools cannot perform a build; GitHub Actions supports Windows, Linux, and macOS runners.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://docs.github.com\&sz=32)
+
+GitHub Docs
+
+&#x20;Supported Android outputs include APK, AAB, and an installed app with a launcher icon. Store publishing and macOS release signing have separate requirements.&#x20;
+
+[image](https://www.google.com/s2/favicons?domain=https://v2.tauri.app\&sz=32)
+
+Tauri
+
+
+
+## 7. First benchmark
+
+I'd give our first implementation a deliberately modest but real test:
+
+Input: A small application that can open, edit, and save text files.
+
+Task: Convert it for another desktop operating system.
+
+Required result: The program launches, opens a file, changes text, saves the file, and the saved data matches the expected result.
+
+The verifier must test the converted application, not merely confirm that compilation succeeded.
+
+Then deliberately introduce a platform-specific incompatibility and see whether the standalone engine:
+
+- Finds an applicable local method.
+- Corrects and retests it.
+- Or generates a useful AI handoff if it cannot solve the problem.
+
+That's our first complete conversion loop.
+
+My recommended freeze for Scaffold 001:
+
+Standalone converter → Local adaptive methods → ⛩️ Verification → AI handoff when unresolved → Reuse verified solutions.
+
+I'd build Phase 1 before introducing any model integration. That gives Codex a clearly bounded construction job and proves the converter can actually operate independently.
