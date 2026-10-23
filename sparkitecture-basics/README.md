@@ -36,4 +36,4 @@ The author's statement in the course describes the material as **personal, nonpr
 
 ## AI Notepad
 
-[Download the AI Notepad desktop app](../apps/ai-notepad/README.md) to open the `.ainote` edition. Windows Python app with launch scripts.
+[Download the AI Notepad desktop app](../apps/ai-notepad/README.md) to open the `.ainote` edition. Single-file Windows EXE; no separate Python installation required.

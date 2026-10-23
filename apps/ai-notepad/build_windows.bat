@@ -17,11 +17,11 @@ if errorlevel 1 exit /b 1
 
 call .venv\Scripts\activate.bat
 python -m pip install --upgrade pip
-pip install -r requirements.txt
-pip install pyinstaller
+pip install -r requirements-build-windows.txt
+if errorlevel 1 exit /b 1
 
 pyinstaller --noconfirm --clean --windowed --onefile ^
-  --name "AI Notepad" ^
+  --name "AI-Notepad" ^
   ai_notepad.py
 
 if errorlevel 1 (
@@ -33,5 +33,5 @@ if errorlevel 1 (
 
 echo.
 echo BUILD PASS
-echo EXE: %CD%\dist\AI Notepad.exe
+echo EXE: %CD%\dist\AI-Notepad.exe
 pause
