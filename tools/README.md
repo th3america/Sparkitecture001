@@ -1,5 +1,9 @@
 # Sparkitecture Tools
 
+> [!WARNING]
+> **SOFTWARE CONVERTER: HAS NOT BEEN LIVE TESTED. HAVE YOUR AI TEST IT BEFORE USE.**
+> Development checks and sample conversions have been run; real-world use on your applications and system has not been validated.
+
 Standalone tools for people and AI callers. This directory is the home for new tools as Sparkitecture001 grows toward AI use and support.
 
 - [Software Converter](software-converter/README.md): desktop interface and [JSON CLI](software-converter/AI-TOOL-GUIDE.md). v0.1 provides inspection, native Python packaging, selected behavioral verification, local recipes and diagnostic handoffs.

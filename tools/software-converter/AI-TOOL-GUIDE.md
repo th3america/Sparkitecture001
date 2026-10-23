@@ -1,5 +1,9 @@
 # AI tool interface
 
+> [!WARNING]
+> **SOFTWARE CONVERTER: HAS NOT BEEN LIVE TESTED. HAVE YOUR AI TEST IT BEFORE USE.**
+> Development checks and sample conversions have been run; real-world use on your applications and system has not been validated.
+
 The standalone smart converter is the worker. AI is an optional client that can inspect, run, diagnose, and consume its real evidence. No model integration or API subscription is required.
 
 Use `Sparkitecture-Converter-CLI.exe` on Windows, or `python cli.py` from source. The desktop GUI and CLI share the engine and local SQLite store. Do not run multiple writers against the same input/output job intentionally.

@@ -1,5 +1,9 @@
 # Sparkitecture Software Converter — local prototype 0.1
 
+> [!WARNING]
+> **SOFTWARE CONVERTER: HAS NOT BEEN LIVE TESTED. HAVE YOUR AI TEST IT BEFORE USE.**
+> Development checks and sample conversions have been run; real-world use on your applications and system has not been validated.
+
 A real desktop conversion workshop with a full six-section interface: Converter, Workshop, Local Intelligence, AI Handoff, Jobs & Receipts, and Settings.
 
 ## Downloads

@@ -12,7 +12,9 @@
         "capabilities"
       ],
       "output_schema": "sparkitecture.converter.v1",
-      "ai_required": false
+      "ai_required": false,
+      "live_tested": false,
+      "warning": "HAS NOT BEEN LIVE TESTED. HAVE YOUR AI TEST IT BEFORE USE."
     },
     {
       "id": "ai-notepad",

@@ -1,5 +1,9 @@
 # Sparkitecture001 — Applied AI Systems Scaffolds
 
+> [!WARNING]
+> **SOFTWARE CONVERTER: HAS NOT BEEN LIVE TESTED. HAVE YOUR AI TEST IT BEFORE USE.**
+> Development checks and sample conversions have been run; real-world use on your applications and system has not been validated.
+
 ## Tools for AI use and support
 
 [Open the tools directory](tools/README.md) for standalone applications, AI-facing instructions and [machine-readable discovery](tools/catalog.json). The [Software Converter](tools/software-converter/README.md) provides a desktop UI, JSON CLI, local conversion methods, receipts and optional AI handoffs.
