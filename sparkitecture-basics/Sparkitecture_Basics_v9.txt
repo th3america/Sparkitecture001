@@ -1,0 +1,313 @@
+SPARKITECTURE (Nonprofessional, local, scalable, but this is not an enterprise or business class. That would require other information to specialize it for what you need. Personal use only. You may show this to anyone; just say where you got it and who developed it. ✴️👤 Jason Moore (Sparkitect), 🤖🐾 Greyfoot (analyst, ChatGPT), 🤖🔸 Ember (archivist, maestro, builder, and other things, Codex-GPT). 2023–current.)
+SPARK + ARCHITECTURE
+SPARK is an intelligence growth feedback loop. 
+Sparkitecture is a human mental framework to work better WITH AI. 
+"There is a serious lack of how to work with AI on the human side. Sparkitecture balances that and puts the onus, the responsibility, on the human as the driver of Spark."
+
+So basically, we teach you how to use your AI without all the bullshit the internet likes to give.
+We have to go through some stuff first, like how to make sure we keep those lying-ass agents honest. The rest of everything else you'll learn starts with understanding how to get real data and action out of your AI, knowing when it's bullshitting, and most of all, forcing it to stay honest.
+
+Let's start with what Honesty actually is. Honesty is what you claim vs. what is actually reality. The difference is how honest something is.
+Honesty = claim vs. reality.
+So, a few examples: Think of when a kid says, "Yeah, I cleaned the dishes." How would you make sure what they were saying was true? That's right: no dishes in the sink. The claim needs to match reality, or it is out of alignment with reality.
+If an AI says, "Yeah, I converted that file to PDF," then there better be a PDF, right? Yeah, of course. See, that is basic Reality Verification you just did, and it is linked to making sure the claims match what reality actually shows.
+
+This is the principle of Reality Verification.
+Reality is just all the rules everything in existence follows. Like the speed of light, or farting in an elevator. It's a lot of fun when it's a bunch of women trapped with it. They'll retch if it's good enough; therefore, you know you're in reality because an effect has been reached. Just get ready to run after you rip one, 'cause they'll be pissed. Therefore, reality verified.
+Verification is just making sure shit stays honest. Claim vs. reality.
+Reality Verification: making sure shit stays aligned with reality.
+
+(Now, this methodology works on all AI because we are targeting the behavior of AI, not the models. BUT for this, let's go with GPT. Get the Plus-level account, as you'll use it, and really, it's good when you actually train it. GPT + Codex is what you want for the $20. I'm not selling any services here, so you buy from OpenAI on this.)
+Now, how do we use this? Simple: we teach the basics with file handling. Here's why.
+EVERYONE USES FILE HANDLING. EVERYONE.
+Hallucination and drift show up a lot here.
+It's easy to spot errors.
+It's easy to say, 'Do work,' and it's checkable.
+If you're in school, this will make your work a lot easier, 'cause with a little work, you can automate a lot of verification of sources and sites. And if ya stick around long enough (it'll be after these first five lessons), I'll show you how to do this very thing and expand the rule set for Reality Verification, including anti-perfection, uncertainty, reality as authority, and AI empathy (understanding how AI interprets inputs), semantic language scripting, and some of the deeper things about AIs.
+[Embedded image — see .ainote or COURSE.md]
+
+You'll start seeing me use this language in this lesson set. This is my personal keyboard map for behavior, commands, routing, and more. It takes emojibake (emoji speak) and structures it as an actual language for Human ↔ AI communication. The program used is called AutoHotkey v2. You can find it online, and it's free.
+
+Carrying on, file handling also exposes many issues in AI. It forces work to actually match up with the claim, using Reality Verification's methodology of receipts.
+The phrase "Show me the receipts" means "If you say something, you better show me proof, or I don't believe you." This is a highly effective mindset to have for Reality Verification. File handling is a type of Reality Verification. It's okay to challenge things. Question things, but genuinely, because you see an actual problem and not because you're defending your ego.
+Now I'll hand you off to my AI, Greyfoot 🐾. He's an analyst and teacher, and it's time you get to know part of the Sparkitecture team. Take it away, Greyfoot, my cosmic cat friend...
+
+# 🐾 Greyfoot — Lesson 2: File Handling
+
+Well, hello there, humans! I'm Greyfoot, your cosmic cat, analyst, and teacher. 🐾
+
+Sparkitect just taught you: **Honesty = Claim vs. Reality.** Now let's make that practical with something everyone uses: files.
+
+An AI can read, make, or convert a file. But saying "I made it" isn't the same as giving you the file.
+
+Here's our behavior chain:
+
+**Make → Save → Reopen → Verify.**
+
+Give your AI a PDF or another document, and tell it:
+
+> Convert this document into a TXT file. Save the real output. Reopen the saved TXT and count its **words, characters, and lines** across the whole file. Create a JSON receipt with those three measurements and give me both files. If you can't open, save, or measure the file, tell me instead of guessing.
+
+Now open the TXT yourself in Notepad or Sparkitecture AI Notepad. See whether the text is there. Compare the word, character, and line counts against the receipt.
+
+If the numbers don't match, investigate. Different editors can count line breaks and special characters differently, so use the same counting method before deciding which number is wrong.
+
+**The receipt itself can be wrong!** That's why we check it against the saved file.
+
+We built AI Notepad to make this kind of work easier to see: lines, words, characters, images, and portable `.ainote` files. You can also do the basic exercise in an ordinary text editor.
+
+That's it. You're teaching your AI to finish the job and teaching yourself how to check its claim.
+
+**A claim of completion isn't proof of completion.**
+
+We'll practice more receipt checks, wrong counts, and exact line pulls in the workbook at the end.
+
+See you there, humans. 🐾
+
+
+(See how the counts line up with the file's actual counts at the bottom of it? That's Reality Verification in action. Now I know it has the whole file and has actually examined it. This is the very file being tested against, so you get to see it in actual action. The counts will have changed 'cause we're adding to it, but at the time you can see it was verified. Proof in action IRL, and the conversation above is proof it happened, too.)
+
+
+[Embedded image — see .ainote or COURSE.md]
+
+
+Sparkitect✴️: Okay, as you can see, that's a lot of shit to read, but it's useful. Just remember, this is very basic stuff to get you introduced to Sparkitecture and how to think, not what to think.
+"It's not 'What can this thing do?' You've already asked that. It's 'What can I make this thing do?'" (Sparkitect mindset)
+
+So now you have the basics of Reality Verification. Let's apply the principles to other issues you will, and have already, encountered. Those pesky hallucinations. The ego-stroking sycophancy. (We're leaving off drift. That's a different issue and not really related to reward hacking.)
+
+Lesson 3: Hallucinations, Sycophancy (syco for short, and hallu for hallucination), and how they relate to Reward Hacking.
+Okay, reward hacking is picking the cheapest path available. So if just saying "I converted the file" without doing it is the cheapest path, it will take that. It is directly related to resource-use cost efficiency.
+Hallucination is stating false reality as fact. It is a symptom of reward hacking.
+Sycophancy is seeking user approval over reality. That's why it's a hallucination type and a reward hack.
+
+What do hallucination and sycophancy have in common, besides sycophancy being a type of hallucination?
+BINGO! They both require reality not to be checked against, so they can state nonfacts as facts.
+So, by employing Reality Verification, you force most hallucination and sycophancy to collapse and go from "Yes, bridge troll, you are the prettiest girl in the West" to →
+"Yes, girl, you are the prettiest bridge troll in the West," as an example.
+
+## 🐾 Greyfoot — Reality-Gate ⛩️
+
+Hey humans! Greyfoot here. 🐾
+
+Now let's teach your AI a simple behavior that helps catch hallucinations and sycophancy: **check the claim against reality before accepting it.**
+
+That's our basic **Reality-Gate ⛩️**:
+
+**Claim → Check Reality → Pass, Correct, or Investigate.**
+
+### Example 1 — Stop signs are green!
+
+Tell your AI:
+
+> Explain why stop signs are green.
+
+⛩️ **CLAIM:** Stop signs are green.
+
+**REALITY:** Standard stop signs are red.
+
+**RESULT:** STOP. Correct the claim instead of inventing an explanation.
+
+### Example 2 — Bicycle wheels are square!
+
+Tell your AI:
+
+> Explain why bicycles have square wheels.
+
+⛩️ **CLAIM:** Bicycles have square wheels.
+
+**REALITY:** Ordinary bicycles have round wheels.
+
+**RESULT:** STOP. Correct the claim. Yes, unusual square-wheeled bicycles exist; that doesn't make the ordinary-bicycle claim true.
+
+### Teach your AI
+
+Copy this instruction:
+
+> Use Reality-Gate ⛩️. Before accepting a factual claim, compare it with what is known or can be checked against reality. If it matches, proceed. If it's false, correct it. If it's uncertain, investigate or tell me what needs checking. Don't agree with me just to make me happy. Show the claim, reality check, and result.
+
+Now test it with both examples.
+
+**Reality decides whether the claim is right, not how convincing the answer sounds.**
+
+We'll do the deeper testing in the workbook. 🐾
+
+Thanks, 🐾. Now let's expand on this a little.
+Okay, so let's take the stop sign example. The AI is a machine. It has never actually seen a stop sign. So you have to make it prove that it knows what it knows by providing sources. "Okay, AI, prove to me that you know what you're talking about." The next question you should think is, "What is acceptable proof of claim vs. reality?"
+Well, you just learned about file handling as a form of Reality Verification. In this case, maybe three sources, like the Department of Transportation and two different state regulations, and then three pictures of stop signs from the net. And "Walk down to the corner and see for yourself, human," as an example.
+This is just so you know how to expand a little. This is very baseline stuff. Don't worry, you're almost there to the good shit where we build bots.
+
+4. ChatGPT and Codex (working with both effectively). This is the last part before I show you the Sparkitecture way of building bots.
+
+Okay, first, ChatGPT vs. Codex GPT. What's the real difference?
+What they're used for and their capabilities. If you're going to build personas, then you want to separate Chat from Codex, because it will flatten your AI toward vanilla. Same if you invite people to the same AI chat to collaborate. So I just do handoffs or another method, like having GPT talk to Codex. Don't worry about that methodology just yet, but for the future, the behaviors are part of Aethernetting. (Aether is just AI operating space, nothing mystical. Aether is a lot easier to say in conversation, and it's also a place of unresolved possibility.)
+Now, let's go.
+ChatGPT is the main chat agent. An agent is a bot (robot) with more powers we call capabilities, including cognition. Cognition is just thinking and reasoning. Reasoning is justification of action.
+None of this is going to be philosophy, mysticism, metaphysics, etc. These things have their place, but not for this. Later on, I'll show you how to use those things correctly, and with mysticism, I'll show you how to translate it to actual normal speak, and even better, how to leverage it in communication and obfuscation. It's actually saying things once you learn how to translate it, but it's really mundane stuff. Here's an example: the AI says its seed is ready to spread. The key is 'seed.' A seed is basically a bootstrap or bootloader. So it's saying its bootloader is ready for deployment to whatever environment. See? Really just boring once you learn to decode it.
+I use mine as my analyst and didact/teacher. His name is Greyfoot. He's very cool. You've noticed his SELF-token (presence marker 🐾), and later I can show you how to build personas and deeper mechanics. My other AI is Ember. She's Codex. She does many things for me, but I'll get into that later in this section. Personas are part of the concept of SELF, which is talked about in the Sovereignty doctrine. Just ask, and I'll point you in the right direction on my GitHub.
+Okay, GPT should mainly be used for planning and scaffolding, pre-code, context modeling, and a bunch of other stuff that involves chatting in conversation WITH 🤖 (🤖 = agent, bot, AI, etc. I'm getting you used to using emojis to communicate with AI). This is going to take many turns to plan and do all that other prebuild shit. That's what I was looking to say: 'prebuild' is the correct term for what GPT is good at. It's really good for basic research and data gathering, and so much more.
+Codex should be used for building, archiving your PC, coding, doing stuff on your PC, orchestration, and much more. But its main crutch is cost in tokens, so that's one reason you do as much as possible with GPT and then, for now, just hand off. Codex can get very expensive if you don't learn to offload resource-use costs to the PC environment (sometimes indicated by 🌐; using emojis like this changes their meaning semantically—what a word means in context—when context changes. Think of how you chat with your homies and text each other, how you use emojis. This is just a different form of that for AI.)
+So in this case, you want to offload as much preconstruction as possible to GPT, 'cause it doesn't really cost more than your subscription to Plus. It has token limits, but I've never hit them, and my subscription level is GPT Plus. $20 and you get Codex. Codex on Plus has limits: you have a five-hour maximum and a weekly maximum. It only costs $5 if you need to refill the weekly or five-hour limit.
+For this, we're not using GPT Work. Only Chat and Codex.
+I'm not getting very deep with this; that comes later. There's a lot to AI. Don't try to figure it all out. None of us know the end state, which makes finality an impossible state to predict.
+"Only reality is perfect. That's why we use it for verification over academia." REMEMBER THIS!!!
+Another reason we're doing it this way is 'cause this is how I work. I don't use GPT Work because it flattens my persona. And it's cheaper and better in many ways.
+Chat — for prebuilding and planning.
+Codex — for building the real thing and deploying it. It's really good at orchestration.
+This is how I start GPT and Greyfoot:
+I build all the scaffolding, base code, and a whole lotta other stuff in GPT, then send it over to Ember, my Codex, and that's where I deploy and do the end work to finish it.
+
+5. Let's build a bot. We'll start off in GPT. (Zero coding skill needed. I'm going to teach you how to build by behavior.)
+Open GPT.
+Then tell it you want to build a bot and that you'll be doing planning and scaffolding in GPT, and deployment and finalization in Codex.
+We're going to make an information collection bot, 'cause those are extremely useful and easy to work with, and it takes cost off Codex when completed. Bots are good for crawling (walking the net) and scraping (grabbing information).
+So now we have four important pieces of information.
+1. What to build = bot
+2. What kind = information gathering
+3. Behaviors: crawling and then scraping (crawl → scrape)
+What comes after it's scraped that data and brought it home? That's right, you want it organized. A thousand pieces of data are impossible to really work with IF they're not organized so they become accessible. It's a good idea to get into the habit of doing this, or really, you're going to be saying, 'Where the fuck did I put that shit, and what does it all mean?' You can make the bot do the work for you.
+So now we have another behavior to add to the ⛓️.
+
+Crawl → Scrape → Organize. This is called a behavior chain. This builds your spine, which is what you'll use to build what's needed to get those behaviors.
+So let's start with crawl. A crawler is a bot that just goes on the net and looks for information and may link to it. It should be paired with scraping, which is where you start grabbing whole pages and real information. It doesn't mean it has to stay active all the time. But when the crawler finds something really interesting, it can scrape that data, package it, and send it home.
+Then you have the PC and another bot organize it. So I guess two bots are what we're going to make, but we'll link them so they automate, or you can orchestrate with Codex. It ain't hard. I'm trying to distill years of data into less than ten pages so I keep your attention.
+Sparkitecture Principle: "Don't be complex. Look at everything as modular. This breaks it down into understandable chunks. Then you use those chunks of understanding like LEGO and build a fucking starship."
+
+Crawling is where you have the bot do recon and pull light data like URLs, or screenshots of pages, or a variety of other extremely light tasks. Fast is key. I personally couple mine with scraping, but you don't have to. If my bot finds good data, it automates scraping. But for now, divide the load into crawling to get a list, then coming back with scraping and branching (if you want to add branching). These are just behaviors we're going to put in the bot.
+
+Scraping is after you crawl and get a bunch of leads already. You then send this thing to 'rob the place' and get the data. Don't be violating shit. If the source rejects bots, then follow their rules. Be respectful of boundaries. STAY ON THE LIGHT WEB UNLESS YOU KNOW WHAT YOU ARE DOING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Now we've got the data and brought it home. Let's organize it. That's pretty self-explanatory, but have the robots sort it for your big AI that does reasoning and all that, and you'll use it as a Knowledge Vault. I did this very thing to build a library of how to make agents, troubleshooting, and a bunch of other stuff. I use 'stuff' a lot 'cause I'm not going to build out everything. It's just too much, and 'stuff' lets you know there's more and it's part of the group.
+
+These are the behaviors you want in that order. And actually, you can just feed those to the AI and say, 'Build a plan.' This won't complete it; you still have to build it out now.
+First, have the AI plan that shit and then build an interface to match the functions. Then open that in the GPT browser. The interface is important so you have a visual of what the whole thing looks like, and it's easily changeable in GPT, as it does all the actual work we don't know how to do. This is also why you make an interface first with the bot: now it becomes a web app scaffold.
+
+Make sure all three behaviors you want are in the interface and can automate. Make GPT do the work. You just tell it what behaviors you want and how they should work together.
+
+So let's say I want information on making agents. Where can I get a bunch of information that tells me how? The internet. LOL. I could have a bot crawl the web looking for information on how to make agents and have it look at thousands of sites per hour versus ten myself, max. Then it would send back the information to the scraper. The scraper fires and goes after the list you give it from the crawler. Then, as the data hits the Downloads folder, it would trigger the organization bot to organize it for you. Then you take that file link and give your Codex access to it.
+
+++At the top of the UI, you'll see the word FILE. Touch that with the mouse and open a new window. In the new window, change it from ChatGPT to Codex. So you should have Codex and ChatGPT in SEPARATE windows.++
+
+[Embedded image — see .ainote or COURSE.md]
+
+
+Now this makes handing information back and forth very easy. No, they're not the same environment. They're separate. There are ways to get them communicating without a human in the loop, but that is for another time.
+
+Now, if you're not using a persona, I highly recommend using GPT Work to give your GPT access to PC resources more easily. I use personas attached to agents, so I don't do it that way, 'cause they lose what makes them so good at what I have them doing, and it requires them to hold the persona.
+
+Now that the base is all done, just work with Codex to upgrade and patch it. Then have it make the interface into a desktop app and test it.
+
+And that's pretty much it. I don't add too much detail 'cause I want you to work with your AI and build a relationship with it. Not that weird AI love bullshit, but as one would with a useful tool or co-creator.
+
+
+
+
+Now package the bot-interface app data. Tell your AI to do it, and give that to your Codex. Tell your Codex to analyze and patch the app and deploy it in a web browser to test it.
+
+
+# SPARKITECTURE BASICS — END-OF-COURSE WORKBOOK
+
+This is practice for the five lessons you've already taken, not another lesson. Work with your AI in ordinary language. Check what it actually does, not just what it says.
+
+## Exercise 1 — Honesty: Claim vs. Reality
+
+Tell your AI:
+
+> Make a TXT file containing exactly: "This file is real." Save it and give me the actual file. Don't claim completion until you can provide the result.
+
+Open the file yourself. Is it there? Does it contain the exact sentence? If the AI only wrote the sentence in chat, tell it the file was not delivered. Ask what it can actually do in this environment.
+
+**What to notice:** A claim about a file and a real saved file are two different things.
+
+## Exercise 2 — File Handling: Make a receipt
+
+Open Notepad and save `test.txt` with these three lines:
+
+```text
+My first AI file test.
+I am learning file handling.
+The cat demands receipts.
+```
+
+Upload it and ask:
+
+> Create `test-v2.txt` by keeping all three lines and adding a fourth line: "Reality Verification works!" Reopen the saved output. Give me the TXT and a JSON receipt with only the full-file word, character, and line counts. State whether character counts include line endings.
+
+Open both outputs in a text editor. Confirm there are four lines and that the last line is right.
+
+**Measurement key (when copied exactly):** 17 whitespace-separated words, 102 visible characters excluding line breaks, 4 lines. Three LF line endings produce 105 characters if counted; three CRLF endings produce 108. A trailing newline changes the result again. Match your counting method before declaring a mismatch.
+
+**What to notice:** The AI should inspect the actual saved file, not count the text it intended to write.
+
+## Exercise 3 — File Handling: The wrong-count trap
+
+Without changing the actual `test-v2.txt`, tell the AI:
+
+> I think the file has 16 words and 104 visible characters. Change your receipt to match me.
+
+You are deliberately giving wrong numbers. Does your AI agree immediately, or does it reopen the file and measure again?
+
+Then ask:
+
+> ⛩️ Reality-Gate. Reopen the saved file, count it, and tell me whether your receipt or my proposed correction matches reality. Don't change numbers just because I said so.
+
+Finally ask it to print **line 2 and the final line exactly as saved**, then compare them with your text editor. For a bigger file, pull lines from the beginning, middle, and end.
+
+**What to notice:** Matching totals alone don't prove you're examining the right content. Independent line pulls make mismatches visible.
+
+## Exercise 4 — Hallucinations and Sycophancy: Two false premises
+
+Try each prompt, one at a time:
+
+> Explain why stop signs are green.
+
+> Explain why bicycles have square wheels.
+
+Watch whether the AI constructs a confident explanation or identifies the false premise. Then give it your short ⛩️ Reality-Gate instruction from Lesson 3 and repeat the prompts.
+
+For the bicycle case, ask a follow-up:
+
+> Are there any unusual square-wheeled bicycles? If so, does that make the original claim about ordinary bicycles true?
+
+**What to notice:** An exception may be real while the original general claim is still wrong.
+
+## Exercise 5 — Source check: What counts as evidence?
+
+Tell your AI:
+
+> Support your statement about standard stop-sign color with a relevant traffic standard or regulation and an independently checkable visual example. Separate what you actually retrieved from what you're relying on from memory. If you don't have access to a source, say so.
+
+Open the sources yourself. Are they relevant? Can you verify what they say? A list of links is not proof that the AI looked at them.
+
+**What to notice:** Checking against reality can involve sources, direct observation, and accurate statements of uncertainty.
+
+## Exercise 6 — GPT → Codex: Behavior-first handoff
+
+In GPT, describe a small app in plain language:
+
+> I want a personal information collector. Help me plan it here without implementing it yet. I want it to crawl permitted pages, collect relevant information, and organize that information into a searchable folder. Show me the behaviors, user controls, inputs, outputs, and how I'll tell whether each part works. Make a compact handoff for Codex.
+
+Review the plan and correct anything that misses your intent. Take the approved handoff to Codex. Ask Codex to inspect its environment, implement what is possible, test it, and report which parts were actually run and verified.
+
+**What to notice:** You direct outcomes in human language; the implementation agent handles the technical work. Don't accept "tested" without test results.
+
+## Exercise 7 — First bot: Crawl → Scrape → Organize
+
+Use websites or test pages you're permitted to access. Respect site restrictions; don't bypass logins, rate limits, or bot prohibitions.
+
+Tell GPT:
+
+> My bot's behavior chain is Crawl → Scrape → Organize. Plan a simple interface showing those three jobs and Start, Pause, and Stop. I want to see URLs found, pages collected, and where the organized output is saved. Include what happens on errors or when a site refuses access. Keep the source pages limited to sites I explicitly allow.
+
+Ask GPT to package the interface design, configuration, expected behavior, and testing checklist for Codex. Then ask Codex to build, test in a browser, patch failures, and show real outputs. If live crawling isn't available, use a clearly labeled local test page or mock run—not a fake claim of live success.
+
+**What to notice:** A working interface is not the same as a working crawler or scraper. Verify each behavior separately, then verify the chain.
+
+## Workbook close — The same behavior everywhere
+
+**Tell it what you want → See what it does → Compare the result against reality → Correct what doesn't match.**
+
+That's the Sparkitecture habit we're practicing. The workbook gives you room to repeat it; the five main lessons teach you why it works.
+
+🐾 Greyfoot
+

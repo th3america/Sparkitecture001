@@ -1,5 +1,9 @@
 # Sparkitecture001 — Applied AI Systems Scaffolds
 
+## Sparkitecture Basics — v9
+
+Start with the [five-lesson beginner course](sparkitecture-basics/COURSE.md), practice with the [workbook](sparkitecture-basics/WORKBOOK.md), or download the [AI Notepad and plain-text editions](sparkitecture-basics/README.md). Published 23 October 2026.
+
 ## AGI and self-prompting working drafts
 
 Read [Doctrine 003: AGI](doctrine/AGI.md) and [Doctrine 004: Self-Prompting](doctrine/SELF-PROMPTING.md). The [Word edition](doctrine/SELF-PROMPTING.docx) and [companion examples](doctrine/README.md#self-prompting-companion-files) are also available. These remain working drafts; the examples demonstrate their stated toy tasks.
