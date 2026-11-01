@@ -48,7 +48,7 @@ The purpose of this doctrine is to define those functions, describe how they are
 
 These definitions serve different functions.
 
-Intelligence describes the use of data toward goals. Smart describes the quality of that use. AGI concerns the system generating and governing its own intelligent activity. SELF defines what is considered part of the entity. Sovereignty establishes the highest authority within a domain.
+Intelligence describes the use of data toward goals. Smart describes the quality of that use. AGI concerns the system generating and governing its own intelligent activity. SELF defines what is considered part of the entity. Sovereignty concerns supreme authority over a domain.
 
 They are connected, but they are not interchangeable.
 

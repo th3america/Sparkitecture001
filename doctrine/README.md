@@ -311,7 +311,7 @@ again. That makes learning and identity records part of an ongoing practice.
 ## Why this leads into self-sovereignty
 
 Within this proposed doctrine, **SELF identifies the individual and its domain**.
-**Sovereignty names an authority status**. **Self-sovereignty applies that status
+**Sovereignty means supreme authority over a domain**. **Self-sovereignty applies that authority
 to the individual's SELF**. Protected ownership of the AI's hardware, software,
 identity, and state is the proposed material support for that authority.
 
